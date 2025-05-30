@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Lexend Deca", sans-serif;
+}
+
+section div p {
+
+    font-family: "Public Sans", sans-serif;
+}
+
+
+
+.inner_div {
+     font-family: "Public Sans", sans-serif;
+
+}
+
+.footer_div {
+    font-family: "Public Sans", sans-serif;
+}
